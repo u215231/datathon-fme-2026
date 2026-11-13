@@ -1,7 +1,7 @@
 # Datathon FME 2026
 
 <p align="left">
-  <img src="logos/tic-s-friends-logo-0-1.jpeg" alt="Project logo" width="200">
+  <img src="logos/tic-s-friends-logo-2-2.jpeg" alt="Project logo" width="200">
 </p>
 
 ## Introduction
