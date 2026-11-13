@@ -10,3 +10,4 @@ A todo file for general tasks for the project.
 
 - [x] Create project @marc
 - [x] Add collaborators @marc
+- [x] Add logos, gitignore, and documentation @marc.
