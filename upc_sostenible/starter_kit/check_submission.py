@@ -122,8 +122,8 @@ def main():
 
         try:
             spec = importlib.util.spec_from_file_location("test_agent_mod", str(agent_file))
-            mod = importlib.util.module_from_spec(spec)
-            spec.loader.exec_module(mod)
+            mod = importlib.util.module_from_spec(spec) # type: ignore
+            spec.loader.exec_module(mod) # type: ignore
 
             if not hasattr(mod, "BatteryAgent"):
                 print(f"{RED}[ERROR] El fitxer 'agent.py' no defineix la classe obligatòria 'BatteryAgent'.{RESET}")

@@ -14,13 +14,26 @@ Reptes principals (Qualcomm, Tiny Bird, UPC Sostenible) vs Side Challenges
 
 ### Main Challenges
 
-Qualcomm:
-1. Semiconductor company, comunications company, chips for PCs, phones, IOT, etc. Molt interessant i innovador, els professors no tenen suficients recursos, IA educativa per mentoritzar i aprendre conceptes matemàtics. Repte: fer servir arduino amb Linux Debian per executar IA, Edge AI, sense que les peticions vagin a l'altre punta del món. Crear un mentor de matemàtiques dintre de l'Arduino . També disposarem del model m3-cam de problemes de proves Cangur per entrenar un petit model d'intel·ligència articficial generativa per a resoldre problemes matemàtics. Executar xarxes neuronals dins de l'Arduino, aprendre com funcionen els LLMs. Tenim un GitHub amb documentació. Penjar-ho a l'Arduino Project HUB i repositori GitHub. Explicar i documentar bé el projecte.
+1. Qualcomm:
+
+Semiconductor company, comunications company, chips for PCs, phones, IOT, etc. Molt interessant i innovador, els professors no tenen suficients recursos, IA educativa per mentoritzar i aprendre conceptes matemàtics. Repte: fer servir arduino amb Linux Debian per executar IA, Edge AI, sense que les peticions vagin a l'altre punta del món. Crear un mentor de matemàtiques dintre de l'Arduino . També disposarem del model m3-cam de problemes de proves Cangur per entrenar un petit model d'intel·ligència articficial generativa per a resoldre problemes matemàtics. Executar xarxes neuronals dins de l'Arduino, aprendre com funcionen els LLMs. Tenim un GitHub amb documentació. Penjar-ho a l'Arduino Project HUB i repositori GitHub. Explicar i documentar bé el projecte.
+
+-- > problemes trigaríem molt pq s'han de descarregar moltes coses
 
 2. TinyBird
+
 Real-time analytics. Processar dades dels clients, proveïdor d'infraestructura. RawTree (ingest-first process-later), dynamic-schema, optimized LLM, C++ codi, predictable. Generar índexs per les consultes per accelerar-les. ClickHouse. Algorisme de resposta de request. Expected purchases per 100 requests. Oracle: the best list possible, recuperació d'informació. Agent: it decides what to ingest, which questions to ask and what to do with the answers, through the CLI, APL, SDK or MCP.
 
+--> problema, connexió a internet (failed packets)
+--> ens han donat un livestream
+--> hem de mostrar quins productes volen mostrar
+--> maximitzar vendes
+--> maximitzar revenue (vendes de valor alt)
+--> full chat
+--> demostrar el que has après
+
 3. UPC Sostenible
+
 Go to this project [README.md](/upc-sostenible/README.md)
 
 Carregar bateria, descarregar bateria, en repòs. 
