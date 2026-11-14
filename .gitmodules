@@ -1,0 +1,3 @@
+[submodule "qualcomm"]
+	path = qualcomm
+	url = https://github.com/u215231/datathon-UPC-maths-qualcomm-arduino-unoq.git
