@@ -1,0 +1,10 @@
+{
+  "capacity_kwh": 2000,
+  "power_kw": 500,
+  "efficiency": 0.9,
+  "soc_init": 0.5,
+  "soc_min": 0.0,
+  "soc_max": 1.0,
+  "dt_hours": 1,
+  "degradation": false
+}

@@ -21,6 +21,8 @@ Qualcomm:
 Real-time analytics. Processar dades dels clients, proveïdor d'infraestructura. RawTree (ingest-first process-later), dynamic-schema, optimized LLM, C++ codi, predictable. Generar índexs per les consultes per accelerar-les. ClickHouse. Algorisme de resposta de request. Expected purchases per 100 requests. Oracle: the best list possible, recuperació d'informació. Agent: it decides what to ingest, which questions to ask and what to do with the answers, through the CLI, APL, SDK or MCP.
 
 3. UPC Sostenible
+Go to this project [README.md](/upc-sostenible/README.md)
+
 Carregar bateria, descarregar bateria, en repòs. 
 Dades:
 - Demanda del Campus
