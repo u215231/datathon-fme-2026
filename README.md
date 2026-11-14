@@ -18,7 +18,9 @@ Reptes principals (Qualcomm, Tiny Bird, UPC Sostenible) vs Side Challenges
 
 Semiconductor company, comunications company, chips for PCs, phones, IOT, etc. Molt interessant i innovador, els professors no tenen suficients recursos, IA educativa per mentoritzar i aprendre conceptes matemàtics. Repte: fer servir arduino amb Linux Debian per executar IA, Edge AI, sense que les peticions vagin a l'altre punta del món. Crear un mentor de matemàtiques dintre de l'Arduino . També disposarem del model m3-cam de problemes de proves Cangur per entrenar un petit model d'intel·ligència articficial generativa per a resoldre problemes matemàtics. Executar xarxes neuronals dins de l'Arduino, aprendre com funcionen els LLMs. Tenim un GitHub amb documentació. Penjar-ho a l'Arduino Project HUB i repositori GitHub. Explicar i documentar bé el projecte.
 
--- > problemes trigaríem molt pq s'han de descarregar moltes coses
+--> problemes trigaríem molt pq s'han de descarregar moltes coses
+--> una persona amb un sol chip (ara dos)
+
 
 2. TinyBird
 
